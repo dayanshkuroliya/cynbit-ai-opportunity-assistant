@@ -6,7 +6,7 @@ The assistant retrieves relevant information from a structured Cynbit knowledge 
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The **Cynbit AI Opportunity Assistant** is an AI-powered chatbot built as a website enhancement concept for Cynbit.
 
@@ -22,7 +22,7 @@ The system searches the available Cynbit knowledge base, retrieves the most rele
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Company websites contain a large amount of information about:
 
@@ -40,25 +40,25 @@ The goal of this project is to provide a **single AI-powered interface** that ma
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🤖 AI-Powered Chat
+###  AI-Powered Chat
 
 Users can ask questions using natural language instead of searching manually through website pages.
 
-### 🔎 RAG-Based Information Retrieval
+###  RAG-Based Information Retrieval
 
 The assistant retrieves relevant information from the Cynbit knowledge base before generating an answer.
 
-### 📚 Source Visibility
+###  Source Visibility
 
 The interface displays the knowledge files used to generate the response along with their relevance scores.
 
-### ⚡ Local AI Model
+###  Local AI Model
 
 The project currently uses a lightweight local language model, so an external paid LLM API is not required.
 
-### 💼 Business Information
+###  Business Information
 
 Users can ask about:
 
@@ -68,7 +68,7 @@ Users can ask about:
 - Case studies
 - Development capabilities
 
-### 🎓 Career Information
+###  Career Information
 
 Users can ask about:
 
@@ -77,7 +77,7 @@ Users can ask about:
 - Required technologies
 - Career-related information
 
-### 🎨 Cynbit-Inspired UI
+###  Cynbit-Inspired UI
 
 The frontend uses a clean interface inspired by Cynbit's visual identity, including:
 
@@ -87,13 +87,13 @@ The frontend uses a clean interface inspired by Cynbit's visual identity, includ
 - Modern typography
 - Responsive design
 
-### 📱 Responsive Interface
+###  Responsive Interface
 
 The application is designed to work on both desktop and mobile screens.
 
 ---
 
-# 🧠 How It Works
+#  How It Works
 
 The application follows a simple Retrieval-Augmented Generation pipeline:
 
@@ -178,7 +178,7 @@ React Chat Interface
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 cynbit-ai-opportunity-assistant/
@@ -296,7 +296,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-# ⚛️ Frontend Setup
+#  Frontend Setup
 
 Open another terminal.
 
@@ -326,7 +326,7 @@ http://localhost:5173
 
 ---
 
-# 🔌 API
+#  API
 
 ## POST `/chat`
 
@@ -357,7 +357,7 @@ The frontend sends a question to the FastAPI backend.
 
 ---
 
-# 🧪 Example Questions
+#  Example Questions
 
 Try asking:
 
@@ -387,7 +387,7 @@ What kind of projects has Cynbit worked on?
 
 ---
 
-# 🔐 Security
+#  Security
 
 The project is configured to avoid committing sensitive environment files.
 
@@ -407,7 +407,7 @@ API keys or private credentials should never be committed to the repository.
 
 ---
 
-# 📈 Future Improvements
+#  Future Improvements
 
 The current version is an MVP. Possible improvements include:
 
@@ -427,7 +427,7 @@ The current version is an MVP. Possible improvements include:
 
 ---
 
-# 🎯 Project Objective
+#  Project Objective
 
 The main objective of this project is to demonstrate how **Retrieval-Augmented Generation (RAG)** can be used to improve information discovery on a technology company's website.
 
@@ -451,7 +451,7 @@ to create a practical AI-powered website assistant.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Dayansh Kuroliya**
 
@@ -463,6 +463,6 @@ https://github.com/dayanshkuroliya
 
 ---
 
-# 📄 License
+# License
 
 This project is created for educational, portfolio, and internship evaluation purposes.
