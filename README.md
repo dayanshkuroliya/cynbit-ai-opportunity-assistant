@@ -139,7 +139,7 @@ React Chat Interface
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ## Frontend
 
@@ -248,7 +248,7 @@ cd cynbit-ai-opportunity-assistant
 
 ---
 
-# 🐍 Backend Setup
+#  Backend Setup
 
 Navigate to the backend:
 
@@ -465,4 +465,4 @@ https://github.com/dayanshkuroliya
 
 # License
 
-This project is created for educational, portfolio, and internship evaluation purposes.
+This project is created for internship evaluation purposes.
